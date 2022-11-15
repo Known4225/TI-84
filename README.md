@@ -8,9 +8,9 @@ SNAKE - play the classic Atari snake (requires RESETGRA
 PONG - play the classic pong (Requires RESETGRA)
 All these games use the native TIBasic language and are thus extremely slow
 
-Primer - Prime number generator (necessary for lots of stuff, run this for a bit before reducing or doing anything with modular arithmetic) \n
-REDUCER - reduces a fraction using prime factorisation \n
-RSA - RSA encryption (but with harsh limits on size of primes and size of message because of prime limits (Requires FSTMDEMB, BINEMB, ASCIIEMB, MDINVEMB, GDCEMB) \n
+Primer - Prime number generator (necessary for lots of stuff, run this for a bit before reducing or doing anything with modular arithmetic)
+REDUCER - reduces a fraction using prime factorisation
+RSA - RSA encryption (but with harsh limits on size of primes and size of message because of prime limits (Requires FSTMDEMB, BINEMB, ASCIIEMB, MDINVEMB, GDCEMB)
 AXIS - 3D wireframe editor
 RYEMAN - visualisation of Riemann sums
 VECTOR - vectors visualisation (requires CLRPTS, DRAWVEC)
