@@ -17,7 +17,7 @@ Primer - Prime number generator (necessary for lots of stuff, run this for a bit
 
 REDUCER - reduces a fraction using prime factorisation
 
-RSA - RSA encryption (but with harsh limits on size of primes and size of message because of prime limits (requires FSTMDEMB, BINEMB, ASCIIEMB, MDINVEMB, GDCEMB)
+RSA - RSA encryption (but with harsh limits on size of primes because of the remainder function domain (requires FSTMDEMB, BINEMB, ASCIIEMB, MDINVEMB, GDCEMB))
 
 AXIS - 3D wireframe editor
 
