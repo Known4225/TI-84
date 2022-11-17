@@ -13,7 +13,7 @@ PONG - play the classic pong (requires RESETGRA)
 
 All these games use the native TIBasic language and are thus extremely slow
 
-Primer - Prime number generator (necessary for lots of stuff, run this for a bit before reducing or doing anything with modular arithmetic)
+PRIMER - Prime number generator (necessary for lots of stuff, run this for a bit before reducing or doing anything with modular arithmetic)
 
 REDUCER - reduces a fraction using prime factorisation
 
